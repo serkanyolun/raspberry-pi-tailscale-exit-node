@@ -1,6 +1,6 @@
 # Raspberry Pi 4 as a Tailscale exit node
 
-Step-by-step setup for turning a Raspberry Pi 4 into a Tailscale exit node, with no port forwarding, no static IP, and no DDNS. I wrote up the reasoning and the CGNAT/NAT-traversal background [in a separate post](https://serkanyolun.com/writing). This repo is just the commands, kept as short as I could make them without leaving out the parts that actually cost me time.
+Step-by-step setup for turning a Raspberry Pi 4 into a Tailscale exit node, with no port forwarding, no static IP, and no DDNS. I wrote up the reasoning and the CGNAT/NAT-traversal background [in a separate post](https://serkanyolun.com/writing/tailscale-exit-node-without-open-ports). This repo is just the commands, kept as short as I could make them without leaving out the parts that actually cost me time.
 
 ## What you need
 
